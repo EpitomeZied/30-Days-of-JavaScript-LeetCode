@@ -20,8 +20,8 @@ This repository contains my solutions for the **30 Days of JavaScript** Study Pl
 
 ## ✨ Features
 
-- ✅ Complete solutions for all problems
-- 📝 Clean, well-documented code
+- ✅ Documented solutions for completed problems
+- 📝 Clear placeholders marking remaining solutions as `Null`
 - 🎯 Organized by topic categories
 - 🔗 Direct links to LeetCode problems
 - 💡 Best practices and modern JavaScript
@@ -146,18 +146,204 @@ node "01 Closures/2809-create-hello-world-function.js"
 <td><a href="https://leetcode.com/problems/return-length-of-arguments-passed/">Return Length of Arguments Passed</a></td>
 <td><a href="03%20Function%20Transformations/2820-return-length-of-arguments-passed.js">Code</a></td>
 </tr>
+<tr>
+<td>2632</td>
+<td><img src="https://img.shields.io/badge/Medium-F0AD4E?style=flat-square" alt="Medium"/></td>
+<td><a href="https://leetcode.com/problems/curry/">Curry</a></td>
+<td>Null</td>
+</tr>
+</tbody>
+</table>
+
+### ⏰ Promises and Time
+<table>
+<thead>
+<tr>
+<th width="100">LeetCode #</th>
+<th width="100">Difficulty</th>
+<th>Problem</th>
+<th width="140">Solution</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2723</td>
+<td><img src="https://img.shields.io/badge/Easy-5CB85C?style=flat-square" alt="Easy"/></td>
+<td><a href="https://leetcode.com/problems/add-two-promises/">Add Two Promises</a></td>
+<td>Null</td>
+</tr>
+<tr>
+<td>2621</td>
+<td><img src="https://img.shields.io/badge/Easy-5CB85C?style=flat-square" alt="Easy"/></td>
+<td><a href="https://leetcode.com/problems/sleep/">Sleep</a></td>
+<td>Null</td>
+</tr>
+<tr>
+<td>2715</td>
+<td><img src="https://img.shields.io/badge/Easy-5CB85C?style=flat-square" alt="Easy"/></td>
+<td><a href="https://leetcode.com/problems/timeout-cancellation/">Timeout Cancellation</a></td>
+<td>Null</td>
+</tr>
+<tr>
+<td>2725</td>
+<td><img src="https://img.shields.io/badge/Easy-5CB85C?style=flat-square" alt="Easy"/></td>
+<td><a href="https://leetcode.com/problems/interval-cancellation/">Interval Cancellation</a></td>
+<td>Null</td>
+</tr>
+<tr>
+<td>2637</td>
+<td><img src="https://img.shields.io/badge/Medium-F0AD4E?style=flat-square" alt="Medium"/></td>
+<td><a href="https://leetcode.com/problems/promise-time-limit/">Promise Time Limit</a></td>
+<td>Null</td>
+</tr>
+<tr>
+<td>2622</td>
+<td><img src="https://img.shields.io/badge/Medium-F0AD4E?style=flat-square" alt="Medium"/></td>
+<td><a href="https://leetcode.com/problems/cache-with-time-limit/">Cache With Time Limit</a></td>
+<td>Null</td>
+</tr>
+<tr>
+<td>2627</td>
+<td><img src="https://img.shields.io/badge/Medium-F0AD4E?style=flat-square" alt="Medium"/></td>
+<td><a href="https://leetcode.com/problems/debounce/">Debounce</a></td>
+<td>Null</td>
+</tr>
+<tr>
+<td>2721</td>
+<td><img src="https://img.shields.io/badge/Medium-F0AD4E?style=flat-square" alt="Medium"/></td>
+<td><a href="https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/">Execute Asynchronous Functions in Parallel</a></td>
+<td>Null</td>
+</tr>
+<tr>
+<td>2676</td>
+<td><img src="https://img.shields.io/badge/Medium-F0AD4E?style=flat-square" alt="Medium"/></td>
+<td><a href="https://leetcode.com/problems/throttle/">Throttle</a></td>
+<td>Null</td>
+</tr>
+</tbody>
+</table>
+
+### 📦 JSON
+<table>
+<thead>
+<tr>
+<th width="100">LeetCode #</th>
+<th width="100">Difficulty</th>
+<th>Problem</th>
+<th width="140">Solution</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2727</td>
+<td><img src="https://img.shields.io/badge/Easy-5CB85C?style=flat-square" alt="Easy"/></td>
+<td><a href="https://leetcode.com/problems/is-object-empty/">Is Object Empty</a></td>
+<td>Null</td>
+</tr>
+<tr>
+<td>2677</td>
+<td><img src="https://img.shields.io/badge/Easy-5CB85C?style=flat-square" alt="Easy"/></td>
+<td><a href="https://leetcode.com/problems/chunk-array/">Chunk Array</a></td>
+<td>Null</td>
+</tr>
+<tr>
+<td>2619</td>
+<td><img src="https://img.shields.io/badge/Easy-5CB85C?style=flat-square" alt="Easy"/></td>
+<td><a href="https://leetcode.com/problems/array-prototype-last/">Array Prototype Last</a></td>
+<td>Null</td>
+</tr>
+<tr>
+<td>2631</td>
+<td><img src="https://img.shields.io/badge/Medium-F0AD4E?style=flat-square" alt="Medium"/></td>
+<td><a href="https://leetcode.com/problems/group-by/">Group By</a></td>
+<td>Null</td>
+</tr>
+<tr>
+<td>2724</td>
+<td><img src="https://img.shields.io/badge/Easy-5CB85C?style=flat-square" alt="Easy"/></td>
+<td><a href="https://leetcode.com/problems/sort-by/">Sort By</a></td>
+<td>Null</td>
+</tr>
+<tr>
+<td>2722</td>
+<td><img src="https://img.shields.io/badge/Medium-F0AD4E?style=flat-square" alt="Medium"/></td>
+<td><a href="https://leetcode.com/problems/join-two-arrays-by-id/">Join Two Arrays by ID</a></td>
+<td>Null</td>
+</tr>
+<tr>
+<td>2625</td>
+<td><img src="https://img.shields.io/badge/Medium-F0AD4E?style=flat-square" alt="Medium"/></td>
+<td><a href="https://leetcode.com/problems/flatten-deeply-nested-array/">Flatten Deeply Nested Array</a></td>
+<td>Null</td>
+</tr>
+<tr>
+<td>2705</td>
+<td><img src="https://img.shields.io/badge/Medium-F0AD4E?style=flat-square" alt="Medium"/></td>
+<td><a href="https://leetcode.com/problems/compact-object/">Compact Object</a></td>
+<td>Null</td>
+</tr>
+<tr>
+<td>2628</td>
+<td><img src="https://img.shields.io/badge/Medium-F0AD4E?style=flat-square" alt="Medium"/></td>
+<td><a href="https://leetcode.com/problems/json-deep-equal/">JSON Deep Equal</a></td>
+<td>Null</td>
+</tr>
+<tr>
+<td>2675</td>
+<td><img src="https://img.shields.io/badge/Medium-F0AD4E?style=flat-square" alt="Medium"/></td>
+<td><a href="https://leetcode.com/problems/array-of-objects-to-matrix/">Array of Objects to Matrix</a></td>
+<td>Null</td>
+</tr>
+</tbody>
+</table>
+
+### 🏛️ Classes
+<table>
+<thead>
+<tr>
+<th width="100">LeetCode #</th>
+<th width="100">Difficulty</th>
+<th>Problem</th>
+<th width="140">Solution</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2694</td>
+<td><img src="https://img.shields.io/badge/Medium-F0AD4E?style=flat-square" alt="Medium"/></td>
+<td><a href="https://leetcode.com/problems/event-emitter/">Event Emitter</a></td>
+<td>Null</td>
+</tr>
+<tr>
+<td>2695</td>
+<td><img src="https://img.shields.io/badge/Easy-5CB85C?style=flat-square" alt="Easy"/></td>
+<td><a href="https://leetcode.com/problems/array-wrapper/">Array Wrapper</a></td>
+<td>Null</td>
+</tr>
+<tr>
+<td>2703</td>
+<td><img src="https://img.shields.io/badge/Easy-5CB85C?style=flat-square" alt="Easy"/></td>
+<td><a href="https://leetcode.com/problems/calculator-with-method-chaining/">Calculator with Method Chaining</a></td>
+<td>Null</td>
+</tr>
+<tr>
+<td>2618</td>
+<td><img src="https://img.shields.io/badge/Medium-F0AD4E?style=flat-square" alt="Medium"/></td>
+<td><a href="https://leetcode.com/problems/check-if-object-instance-of-class/">Check if Object Instance of Class</a></td>
+<td>Null</td>
+</tr>
 </tbody>
 </table>
 
 ## 📊 Progress
 
 ```
-Total Problems: 30
-├── Easy: 11
-├── Medium: 0
+Total Problems: 35
+├── Easy: 21
+├── Medium: 14
 └── Hard: 0
 
-Completion: 37% ██████████████░░░░░░░
+Completion: 31% ██████░░░░░░░░░░░░░░
 ```
 
 ## 🤝 Contributing
